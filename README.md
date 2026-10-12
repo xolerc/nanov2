@@ -14,3 +14,6 @@ A hardcore tile-matching puzzle game. Match pairs of identical tiles connected b
 
 ## How to open
 Open `index.html` in any modern browser.
+
+## 🔗 Rasmiy portfolio
+Barcha XOLERIC loyihalari: **https://xolerc.github.io/mydrime/**
